@@ -13,6 +13,7 @@
 <a href="https://linkedin.com/in/brianna-j-foley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brianna-j-foley" height="30" width="40" /></a>
 <a href="https://instagram.com/brijean87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brijean87" height="30" width="40" /></a>
 <a href="https://leetcode.com/brianna-foley/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="brijean87" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/brianna-foley" target="blank"><img align="center" src="https://www.codewars.com/users/brianna-foley/badges/micro" alt="brijean87" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
