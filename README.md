@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brianna-foley&label=Profile%20views&color=0e75b6&style=flat" alt="brianna-foley" /> </p>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **typescript** & **angular**
 
 - 📫 How to reach me **brianna.foley87@gmail.com**
 
