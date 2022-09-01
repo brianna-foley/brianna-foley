@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brianna-foley&label=Profile%20views&color=0e75b6&style=flat" alt="brianna-foley" /> </p>
 
-- 🌱 I’m currently learning <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="brianna_foley87" height="30" width="100" /></a>, <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="brianna_foley87" height="30" width="100" /></a> & <img align="center" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="brianna_foley87" height="30" width="100"/></a> 
+- 🌱 I’m currently learning <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="brianna_foley87" height="25" width="100" /></a>, <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="brianna_foley87" height="25" width="100" /></a> & <img align="center" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="brianna_foley87" height="25" width="100"/></a> 
 
 
 
