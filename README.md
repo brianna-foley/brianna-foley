@@ -2,10 +2,8 @@
 <h3 align="center">A full-stack developer</h3>
 
 
-- 🌱 I’m currently learning <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="brianna_foley87" height="25" width="100" /></a>, <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="brianna_foley87" height="25" width="100" /></a> & <img align="center" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="brianna_foley87" height="25" width="100"/></a> 
-
-
-
+- 🌱 I’m currently learning ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ 
 - 📫 How to reach me **brianna.foley87@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
