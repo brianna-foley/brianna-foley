@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brianna Foley</h1>
 <h3 align="center">A full-stack developer</h3>
-
-
-- 🌱 I’m currently learning ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  
-- 📫 How to reach me **brianna.foley87@gmail.com**
+- 📫 How to reach me: **brianna.foley87@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
